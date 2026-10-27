@@ -15,7 +15,7 @@ I'm a Data Engineering student at Universiti Teknologi Malaysia (UTM), intereste
 
 ## 🛠️ Tools & Technologies
 
-- **Programming:** Python
+- **Programming:** C++
 - **Version Control:** Git & GitHub
 - **Currently Exploring:** SQL, databases, data pipelines, and cloud platforms
 
@@ -28,8 +28,8 @@ I'm a Data Engineering student at Universiti Teknologi Malaysia (UTM), intereste
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL here]
-- **Email:** [Add your preferred professional email here]
+- **LinkedIn:** https://www.linkedin.com/in/meggavartini/
+- **Email:** meggavartini@graduate.utm.my
 
 ---
 
