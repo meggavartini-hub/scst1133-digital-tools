@@ -1,44 +1,36 @@
 
-# SCST1133 Digital Tools Workshop
+# Hi, I'm Meggavartini! 👋
 
-## About This Repository
+Welcome to my GitHub profile!
 
-This repository contains my activities and learning progress for the SCST1133 Data Engineering Ecosystem course at Universiti Teknologi Malaysia (UTM).
+I'm a Data Engineering student at Universiti Teknologi Malaysia (UTM), interested in learning how data is collected, processed, managed, and transformed into useful insights.
 
-## Learning Objectives
+## 👩‍💻 About Me
 
-- Understand the basics of Git and GitHub.
-- Practise version control and repository management.
-- Create and edit Markdown documentation.
-- Explore digital tools used in design and collaboration.
-- Build a simple website using GitHub Pages.
+- 🎓 Studying Data Engineering at UTM.
+- 📚 Currently learning programming, data structures, and database concepts.
+- 💡 Interested in data engineering, big data, and cloud technologies.
+- 🚀 Building my technical skills through coursework, practice, and personal projects.
+- ♟️ Chess enthusiast who enjoys problem-solving and strategic thinking.
 
-## Tools I'm Exploring
+## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|---|---|
-| Git | Track changes in files |
-| GitHub | Store and manage projects online |
-| GitHub Desktop | Manage Git repositories through a graphical interface |
-| Markdown | Create readable documentation |
-| Figma | Design user interfaces and prototypes |
-| GitHub Pages | Publish a simple website |
+- **Programming:** Python
+- **Version Control:** Git & GitHub
+- **Currently Exploring:** SQL, databases, data pipelines, and cloud platforms
 
-## My Progress
+## 🎯 My Goals
 
-- [x] Create a GitHub account.
-- [x] Create a public course repository.
-- [ ] Complete the README documentation.
-- [ ] Practise GitHub Desktop.
-- [ ] Create a simple website using GitHub Pages.
-- [ ] Explore Figma prototyping.
+- Strengthen my programming and problem-solving skills.
+- Build practical projects and document my learning journey.
+- Explore real-world applications of data engineering.
+- Prepare for internships and future opportunities in the tech industry.
 
-## Reflection
+## 📫 Connect With Me
 
-Through this workshop, I aim to develop practical digital skills that will support my learning as a Data Engineering student.
+- **LinkedIn:** [Add your LinkedIn profile URL here]
+- **Email:** [Add your preferred professional email here]
 
 ---
 
-**Course:** SCST1133 – Data Engineering Ecosystem  
-**University:** Universiti Teknologi Malaysia (UTM)
-
+*"Always learning, always building."*
