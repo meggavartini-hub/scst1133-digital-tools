@@ -12,7 +12,6 @@ I'm a Data Engineering student at Universiti Teknologi Malaysia (UTM), intereste
 - 📚 Currently learning programming, data structures, and database concepts.
 - 💡 Interested in data engineering, big data, and cloud technologies.
 - 🚀 Building my technical skills through coursework, practice, and personal projects.
-- ♟️ Chess enthusiast who enjoys problem-solving and strategic thinking.
 
 ## 🛠️ Tools & Technologies
 
